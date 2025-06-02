@@ -7,4 +7,4 @@
 - Darío Cena - DCENA
 - Damian Nocelli -dnocelli097
 
-este programa
+Este proyecto consistió en la creación de una programa desarrollado en una consola de Python, 
