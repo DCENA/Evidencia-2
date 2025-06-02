@@ -1,3 +1,8 @@
 # Evidencia-2
-este repostiroeio es para entregar evidencia N°2
-intejrante mariano mariano397
+
+## Este repositorio es para entregar la evidencia N°2
+
+## Intregantes grupo
+- Mariano Monje - mariano397
+- Darío Cena - DCENA
+- 
