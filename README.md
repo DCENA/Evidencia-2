@@ -3,7 +3,7 @@
 ## Este repositorio es para entregar la evidencia N°2
 
 ## Intregantes del grupo
-- Mariano Monje - mariano397
+- Mariano EVER Monje - mariano397
 - Darío Cena - DCENA
 - Damian Nocelli -dnocelli097
 
